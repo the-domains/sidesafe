@@ -1,14 +1,14 @@
-layout_spectrum: 0.4109133556485176
-typography_spectrum: 0.7616307819262147
+layout_spectrum: 0.11166647775098681
+typography_spectrum: 0.47207217779941857
 color:
-  brandStrength: 0.25140785961411893
-  lightness: 0.020217075012624264
-  saturation: 0.3227120009250939
-  rhythmicContrast: 0.43314051046036184
+  brandStrength: 0.29339212737977505
+  lightness: 0.7845655167475343
+  saturation: 0.7183787561953068
+  rhythmicContrast: 0.40044446708634496
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: SideSafe
